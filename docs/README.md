@@ -1,9 +1,9 @@
 ---
 home: true
-heroImage: https://photo-1314795557.cos.ap-beijing.myqcloud.com/LOGO.png
+heroImage: null
 heroText: 一个 Posts 集合
 tagline: Posts Meaningful Posts
-actionText: New World →
+actionText: Start →
 actionLink: /main/
 features:
 - title: 简单投稿

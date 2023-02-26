@@ -40,7 +40,7 @@
     convert-source-map "^1.7.0"
     debug "^4.1.0"
     gensync "^1.0.0-beta.2"
-    json5 "^2.2.2"
+    json5 "^1.0.2"
     semver "^6.3.0"
 
 "@babel/generator@^7.21.0", "@babel/generator@^7.21.1":
@@ -5176,9 +5176,9 @@ json5@^1.0.1:
   dependencies:
     minimist "^1.2.0"
 
-json5@^2.1.2, json5@^2.2.2:
-  version "2.2.3"
-  resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.3.tgz#78cd6f1a19bdc12b73db5ad0c61efd66c1e29283"
+json5@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/json5/-/json5-1.0.2.tgz#78cd6f1a19bdc12b73db5ad0c61efd66c1e29283"
   integrity sha512-XmOWe7eyHYH14cLdVPoyg+GOH3rYX++KpzrylJwSW98t3Nk+U8XOl8FWKOgwtzdb8lXGf6zYwDUzeHMWfxasyg==
 
 jsonfile@^4.0.0:
@@ -5292,7 +5292,7 @@ loader-utils@^2.0.0:
   dependencies:
     big.js "^5.2.2"
     emojis-list "^3.0.0"
-    json5 "^2.1.2"
+    json5 "^1.0.2"
 
 locate-path@^3.0.0:
   version "3.0.0"

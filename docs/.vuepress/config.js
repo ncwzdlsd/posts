@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Post Meaningful Posts',
-  description: '一个由OIer投稿的OI稿件集合',
+  title: 'Create Meaningful Notes',
+  description: '信息学竞赛笔记集合',
   head: 
   [
     [
@@ -30,7 +30,7 @@ module.exports = {
     // 假如文档不是放在仓库的根目录下：
     // 假如文档放在一个特定的分支下：
     // 默认是 false, 设置为 true 来启用
-    editLinks: true,
+    editLinks: false,
     // 默认为 "Edit this page"
     editLinkText: '帮助我们改善此页面！',
     smoothScroll: true,

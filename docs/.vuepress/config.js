@@ -34,6 +34,14 @@ module.exports = {
     // 默认为 "Edit this page"
     editLinkText: '帮助我们改善此页面！',
     smoothScroll: true,
-    displayAllHeaders: true // 默认值：false
+    displayAllHeaders: true, // 默认值：false
+    nav:
+    [
+      { text: 'Home', link: '/' },
+      // 可指定链接跳转模式：默认target: '_blank'新窗口打开，_self当前窗口打开
+      { text: '图论', link: '/graph/', target: '_self' },
+      { text: '哔哩哔哩', link: 'https://bilibili.com', target: '_blank'},
+      // 支持嵌套,形成下拉式的导航菜单
+    ],
   }
 }
